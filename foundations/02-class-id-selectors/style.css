@@ -5,7 +5,7 @@
 }
 
 #blue-text {
-  color: rgb(0, 0, 255);
+  color: blue;
   font-size: 36px;
 }
 
@@ -13,7 +13,7 @@
   font-size: 36px;
 }
 
-.light-green {
+#light-green {
   background-color: lightgreen;
   font-size: 24px;
   font-weight: bold;
