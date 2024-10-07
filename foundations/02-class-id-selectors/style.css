@@ -1,0 +1,20 @@
+.peach-odd {
+  background-color: peachpuff;
+  color: black;
+  font-family: Verdana, 'DejaVu Sans', sans-serif;
+}
+
+#blue-text {
+  color: rgb(0, 0, 255);
+  font-size: 36px;
+}
+
+.peach-odd.cooler {
+  font-size: 36px;
+}
+
+.light-green {
+  background-color: lightgreen;
+  font-size: 24px;
+  font-weight: bold;
+}
